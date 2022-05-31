@@ -102,3 +102,84 @@ Status: 200K.
 
 
 
+-SOAP UI-
+
+6)	Consultar por el sabor 6.
+Método: GET.
+Url: https://pokeapi.co/api/v2/berry-flavor/6 
+Status: 404 
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/83845610/171267995-102757c6-62e5-48e8-8c65-ef02aa62c203.png)
+
+
+
+
+
+
+
+7)	Consultar por una décima generación.
+
+Método: GET.
+Url: https://pokeapi.co/api/v2/generation/10 
+Status: 404
+
+
+
+![image](https://user-images.githubusercontent.com/83845610/171268049-06fbd48e-2007-40be-afa1-a7405bb70921.png)
+
+
+
+
+
+8)	Consultar por el movimiento número 8000.
+Método:
+Url: https://pokeapi.co/api/v2/move/8000 
+Status: 404.
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/83845610/171268076-9c4c2f92-1f62-4374-b7fb-031314b9d9ba.png)
+
+
+
+
+
+
+
+9)	Consultar por el Pokémon 1200
+Método: GET.
+Url: https://pokeapi.co/api/v2/pokemon/1200 
+Status: 404.
+
+
+
+![image](https://user-images.githubusercontent.com/83845610/171268106-5b4bce72-5ce2-442f-8095-ee8c550f64b8.png)
+
+
+
+
+
+
+
+
+
+10)	 Consultar por la baya número 65.
+Método: GET.
+Url: https://pokeapi.co/api/v2/berry/65 
+Status: 404.
+
+
+
+![image](https://user-images.githubusercontent.com/83845610/171268137-7e823997-4d02-419d-a777-f1d78bbd17f3.png)
+
+
+
+
+
+
