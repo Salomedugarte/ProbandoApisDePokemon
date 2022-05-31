@@ -1,7 +1,7 @@
 # ProbandoApisDePokemon
-En este repositorio observaremos como practico APIS con Postman y 
+En este repositorio observaremos como practico APIS con Postman y SOAP UI.
 
-POSTMAN
+-POSTMAN-
 
 1)	Se quiere conocer la cantidad de Flavors que hay actualmente. 
 Método: GET
